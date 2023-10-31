@@ -89,11 +89,15 @@ puts palindromo("peep")
 
 #Questao 3
 
-#Implemente uma funcao que calcula o fatorial de numeros arbitrariamente grandes.
+#Implemente uma funcao que calcula o fatorial de numeros arbitrariamente grandes
 
+def calcular 
+  n = 0
+  n < 0
+  n > 0
+end
 
-
-
+#
 
 
 
