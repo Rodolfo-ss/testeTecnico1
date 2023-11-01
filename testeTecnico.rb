@@ -97,7 +97,24 @@ def calcular
   n > 0
 end
 
-#
+#Questao 4
+
+#Descreva oque o seguinte comando faz: a ||=b
+
+'O comando verifica se A é verdadeiro ou undefined e se for, a variavel começa a valer B'
+
+#Questao 5 
+#Qual a principal diferença entre dois metodos.
+
+#RUBY
+def empty?(s)
+    return s.size == 0
+end
+
+#JAVA
+public boolean isEmpty(String s){
+    return s.length() == 0;
+}
 
 
 
