@@ -116,7 +116,19 @@ public boolean isEmpty(String s){
     return s.length() == 0;
 }
 
+#Questao 6 
+#Qual o significado da palavra self em Ruby ?
 
+#O self padrao serve para armazenar variaveis
+
+#Questao 7
+#Qual as vantagens e desvantagens do Ruby ser uma linguagem fortemente tipada.
+
+Vantagens = ' - Diminui a verbosidade, nao precisa de conversoes'
+            ' - É mais facil de ser usada e compreendida.'
+            ' - '
+Desvantagens => 'Tende a ser mais lenta'
+                'Ja que a tipagem é forte pode ser confusa'
 
 
 
